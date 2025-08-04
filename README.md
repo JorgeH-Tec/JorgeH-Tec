@@ -45,7 +45,7 @@
 
 ## 📫 Me encontre:
 - Email: **jorge.paiv4@gmail.com**
-- LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/jorge-henrique-16b567263/)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/jorge-henrique-16b567263/)
 ---
 
 ⭐ **Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e deixar feedback.**
