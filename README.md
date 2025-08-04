@@ -34,14 +34,16 @@
 - Controle de acesso com banco de dados  
 
 ### 🔷 Site Básico em HTML – Tema Farmácia  
-Um site simples desenvolvido utilizando apenas HTML, com foco em estruturação semântica e acessibilidade.  
-O projeto contém um formulário de cadastro representativo com campos essenciais para uma farmácia, como nome, email, telefone e interesse em promoções.  
-Ideal para praticar organização de conteúdo e construção de páginas estáticas claras e funcionais.  
+> Site basico com:  
+- Um site simples desenvolvido utilizando apenas HTML, com foco em estruturação semântica e acessibilidade.  
+- O projeto contém um formulário de cadastro representativo com campos essenciais para uma farmácia, como nome, email, telefone e interesse em promoções.  
+- Ideal para praticar organização de conteúdo e construção de páginas estáticas claras e funcionais.  
 
 ### 🔷 Projeto de Dois Sites Conectados – HTML, CSS e JavaScript  
-Dois sites independentes, cada um com sua estrutura, estilo e conteúdo próprios, mas interligados por meio de links de navegação que permitem o acesso cruzado entre eles.  
-Desenvolvidos com HTML, CSS e JavaScript, os sites simulam uma navegação entre áreas distintas de um mesmo sistema, reforçando conceitos de modularização, organização e navegação web.  
-Projeto pensado para demonstrar a criação de múltiplas interfaces relacionadas, com foco em experiência do usuário e clareza visual.  
+> Site com:  
+- Dois sites independentes, cada um com sua estrutura, estilo e conteúdo próprios, mas interligados por meio de links de navegação que permitem o acesso cruzado entre eles.  
+- Desenvolvidos com HTML, CSS e JavaScript, os sites simulam uma navegação entre áreas distintas de um mesmo sistema, reforçando conceitos de modularização, organização e navegação web.  
+- Projeto pensado para demonstrar a criação de múltiplas interfaces relacionadas, com foco em experiência do usuário e clareza visual.  
 
 ---
 
