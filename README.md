@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Realizando diversos cursos complementares em programação e tecnologia  
-📚 Sempre aprendendo coisas novas — administração, inglês, projetos e mais!
+📚 Sempre aprendendo coisas novas — administração, inglês, projetos e mais! 
 💡 Apaixonado por desenvolvimento web, banco de dados e soluções funcionais
 
 ---
