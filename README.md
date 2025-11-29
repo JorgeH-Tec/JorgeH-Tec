@@ -9,13 +9,12 @@
   📚 Sempre aprendendo coisas novas — administração, inglês, projetos e mais!
 </p>
 
-<p align="center">
-  <div align="center">
-    <a href="https://github.com/JorgeH-Tec">
+<div align="center">
+  <a href="https://github.com/JorgeH-Tec">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeH-Tec&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeH-Tec&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </div>
-</p>
+  </a>
+</div>
 
 ---
 
