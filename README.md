@@ -1,12 +1,12 @@
 <h1 align="center">👋 Olá! Eu sou o Jorge Henrique</h1>
-<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Full-Stack, Cibersegurança e Dados</h3>
+<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <br>
 
 <p align="center">
-  💻 Desenvolvedor focado em criar soluções funcionais, com forte base em <strong>JavaScript</strong> e expandindo para <strong>Python</strong> e <strong>Segurança Ofensiva</strong>.
+  💻 Focado em <strong>Desenvolvimento Web</strong>, banco de dados e em criar soluções funcionais.
   <br>
-  📚 Bolsista em programas de Cibersegurança (Santander/DIO) e Inteligência Artificial (Santander/Alura).
+  📚 Recentemente concluí bootcamps de Cibersegurança (Santander/DIO) e IA (Alura) para ampliar minha base técnica.
 </p>
 
 <div align="center">
@@ -30,56 +30,15 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
-<br>
-
-## 🎓 Formação e Certificações
-
-<p>
-  <strong>🔐 Bootcamp de Cibersegurança | Santander Open Academy & DIO</strong><br>
-  Foco em Pentest, Redes de Computadores, Linux, Segurança Ofensiva e Defensiva.
-</p>
-<p>
-  <strong>🤖 Trilha de Inteligência Artificial & Dados | Santander Open Academy & Alura</strong><br>
-  Estudos aprofundados em IA Generativa, Análise de Dados e Python.
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
 </p>
 
 <br>
 
 ## 🚀 Projetos em Destaque
 
-### 🛡️ Cibersegurança & Python
-
-<details>
-  <summary><strong>🐍 Simulação de Malware (Ransomware & Keylogger)</strong></summary>
-  <br>
-  Laboratório de segurança ofensiva desenvolvido em Python.
-  <ul>
-    <li><strong>Ransomware:</strong> Script que simula a criptografia e descriptografia de arquivos.</li>
-    <li><strong>Keylogger:</strong> Spyware com captura de teclas e exfiltração de dados via E-mail (SMTP), rodando de forma furtiva.</li>
-    <li>Foco em entender a estrutura do malware para aplicar engenharia reversa e defesa.</li>
-    <li><a href="LINK_DO_SEU_REPOSITORIO_PYTHON_AQUI">🔗 Ver Repositório</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>💀 Laboratório de Brute Force (Kali Linux & Medusa)</strong></summary>
-  <br>
-  Simulação prática de ataques de força bruta em ambiente virtualizado (Host-Only).
-  <ul>
-    <li>Configuração de laboratório com Kali Linux e Metasploitable.</li>
-    <li>Ataques realizados contra serviços FTP, SSH e Formulários Web (DVWA).</li>
-    <li>Uso de ferramentas como Medusa, Hydra e Nmap.</li>
-    <li><a href="LINK_DO_SEU_REPOSITORIO_KALI_AQUI">🔗 Ver Repositório</a></li>
-  </ul>
-</details>
-
-<br>
-
-### 💻 Desenvolvimento Web
+### 💻 Desenvolvimento Web (Foco Principal)
 
 <details>
   <summary><strong>🔷 Site MetaRealms: Web Interativo</strong></summary>
@@ -116,11 +75,42 @@
 
 <br>
 
-## 🧠 Aprendendo constantemente
+### 📚 Estudos Acadêmicos e Bootcamps
 
-* Automação e Security com Python
-* Ferramentas de Pentest (Kali Linux)
-* Análise de Dados com IA
+<details>
+  <summary><strong>🐍 Simulação de Malware com Python</strong></summary>
+  <br>
+  Laboratório prático realizado durante o Bootcamp da DIO.
+  <ul>
+    <li>Criação de scripts para entender Ransomware e Keylogger.</li>
+    <li>Foco em lógica de programação Python e manipulação de arquivos.</li>
+    <li><a href="LINK_DO_SEU_REPOSITORIO_PYTHON_AQUI">🔗 Ver Repositório</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>💀 Laboratório de Brute Force (Kali Linux)</strong></summary>
+  <br>
+  Experimento prático sobre vulnerabilidades em redes e autenticação.
+  <ul>
+    <li>Uso de máquinas virtuais e ferramentas de análise.</li>
+    <li>Estudo sobre proteção de senhas e protocolos.</li>
+    <li><a href="LINK_DO_SEU_REPOSITORIO_KALI_AQUI">🔗 Ver Repositório</a></li>
+  </ul>
+</details>
+
+<br>
+
+## 🎓 Cursos e Extensão
+
+<p>
+  <strong>🔐 Bootcamp de Cibersegurança | Santander & DIO</strong><br>
+  Conhecimentos gerais em Redes, Linux e Segurança.
+</p>
+<p>
+  <strong>🤖 Trilha de IA & Dados | Santander & Alura</strong><br>
+  Introdução à IA Generativa e Python para dados.
+</p>
 
 <br>
 
@@ -132,5 +122,5 @@
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil!
+  Obrigado por visitar meu perfil! 
 </p>
