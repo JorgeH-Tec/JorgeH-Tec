@@ -1,12 +1,12 @@
 <h1 align="center">👋 Olá! Eu sou o Jorge Henrique</h1>
-<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Web, Dados e Soluções</h3>
+<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas | Foco em Full-Stack, Cibersegurança e Dados</h3>
 
 <br>
 
 <p align="center">
-  💻 Focado em desenvolvimento web, banco de dados e em criar soluções funcionais e intuitivas.
+  💻 Desenvolvedor focado em criar soluções funcionais, com forte base em <strong>JavaScript</strong> e expandindo para <strong>Python</strong> e <strong>Segurança Ofensiva</strong>.
   <br>
-  📚 Sempre aprendendo coisas novas — administração, inglês, projetos e mais!
+  📚 Bolsista em programas de Cibersegurança (Santander/DIO) e Inteligência Artificial (Santander/Alura).
 </p>
 
 <div align="center">
@@ -28,12 +28,58 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 <br>
 
+## 🎓 Formação e Certificações
+
+<p>
+  <strong>🔐 Bootcamp de Cibersegurança | Santander Open Academy & DIO</strong><br>
+  Foco em Pentest, Redes de Computadores, Linux, Segurança Ofensiva e Defensiva.
+</p>
+<p>
+  <strong>🤖 Trilha de Inteligência Artificial & Dados | Santander Open Academy & Alura</strong><br>
+  Estudos aprofundados em IA Generativa, Análise de Dados e Python.
+</p>
+
+<br>
+
 ## 🚀 Projetos em Destaque
+
+### 🛡️ Cibersegurança & Python
+
+<details>
+  <summary><strong>🐍 Simulação de Malware (Ransomware & Keylogger)</strong></summary>
+  <br>
+  Laboratório de segurança ofensiva desenvolvido em Python.
+  <ul>
+    <li><strong>Ransomware:</strong> Script que simula a criptografia e descriptografia de arquivos.</li>
+    <li><strong>Keylogger:</strong> Spyware com captura de teclas e exfiltração de dados via E-mail (SMTP), rodando de forma furtiva.</li>
+    <li>Foco em entender a estrutura do malware para aplicar engenharia reversa e defesa.</li>
+    <li><a href="LINK_DO_SEU_REPOSITORIO_PYTHON_AQUI">🔗 Ver Repositório</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>💀 Laboratório de Brute Force (Kali Linux & Medusa)</strong></summary>
+  <br>
+  Simulação prática de ataques de força bruta em ambiente virtualizado (Host-Only).
+  <ul>
+    <li>Configuração de laboratório com Kali Linux e Metasploitable.</li>
+    <li>Ataques realizados contra serviços FTP, SSH e Formulários Web (DVWA).</li>
+    <li>Uso de ferramentas como Medusa, Hydra e Nmap.</li>
+    <li><a href="LINK_DO_SEU_REPOSITORIO_KALI_AQUI">🔗 Ver Repositório</a></li>
+  </ul>
+</details>
+
+<br>
+
+### 💻 Desenvolvimento Web
 
 <details>
   <summary><strong>🔷 Site MetaRealms: Web Interativo</strong></summary>
@@ -59,22 +105,12 @@
 </details>
 
 <details>
-  <summary><strong>🔷 Projeto de Dois Sites Conectados – HTML, CSS e JavaScript</strong></summary>
+  <summary><strong>🔷 Projeto de Dois Sites Conectados</strong></summary>
   <br>
-  Dois sites independentes, cada um com sua estrutura, estilo e conteúdo próprios, mas interligados por meio de links de navegação que permitem o acesso cruzado entre eles.
+  Dois sites independentes interligados, desenvolvidos com HTML, CSS e JavaScript.
   <ul>
-    <li>Desenvolvidos com HTML, CSS e JavaScript, os sites simulam uma navegação entre áreas distintas de um mesmo sistema, reforçando conceitos de modularização, organização e navegação web.</li>
-    <li>Projeto pensado para demonstrar a criação de múltiplas interfaces relacionadas, com foco em experiência do usuário e clareza visual.</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>🔷 Site Básico em HTML – Tema Farmácia</strong></summary>
-  <br>
-  Um site simples desenvolvido utilizando apenas HTML, com foco em <strong>estruturação semântica</strong> e acessibilidade.
-  <ul>
-    <li>O projeto contém um formulário de cadastro representativo com campos essenciais para uma farmácia, como nome, email, telefone e interesse em promoções.</li>
-    <li>Ideal para praticar organização de conteúdo e construção de páginas estáticas claras e funcionais.</li>
+    <li>Simulam uma navegação entre áreas distintas de um mesmo sistema.</li>
+    <li>Foco em modularização, organização e clareza visual.</li>
   </ul>
 </details>
 
@@ -82,9 +118,9 @@
 
 ## 🧠 Aprendendo constantemente
 
-* Programação em Java
-* JavaScript avançado e frameworks modernos
-* Boas práticas de versionamento com Git
+* Automação e Security com Python
+* Ferramentas de Pentest (Kali Linux)
+* Análise de Dados com IA
 
 <br>
 
