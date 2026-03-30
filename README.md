@@ -4,9 +4,9 @@
 <br>
 
 <p align="center">
-  💻 Focado em <strong>Desenvolvimento Web</strong>, banco de dados e em criar soluções funcionais.
+  💻 Focado em <strong>Desenvolvimento Java Backend</strong>, Soluções Web e Banco de Dados.
   <br>
-  📚 Recentemente concluí bootcamps de Cibersegurança (Santander/DIO) e IA (Alura) para ampliar minha base técnica.
+  📚 Estudante de ADS, aprimorando lógica de programação e arquitetura de software.
 </p>
 
 <div align="center">
@@ -23,22 +23,50 @@
 <br>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
 </p>
 
 <br>
 
 ## 🚀 Projetos em Destaque
 
-### 💻 Desenvolvimento Web (Foco Principal)
+### ☕ Java Backend Development (Foco Atual)
+
+<details open>
+  <summary><strong>🔷 Java Backend Foundations: Lógica e Estrutura Core</strong></summary>
+  <br>
+  Repositório centralizando o domínio de fundamentos críticos da linguagem Java.
+  <ul>
+    <li><strong>Programação Defensiva:</strong> Implementação rigorosa de <code>try-catch</code> e validação de <code>InputMismatchException</code>.</li>
+    <li><strong>Estruturas de Dados:</strong> Manipulação avançada de vetores (arrays) com alocação dinâmica e acesso direto por índice.</li>
+    <li><strong>Gestão de Memória:</strong> Controle de fluxo e limpeza de buffer do Scanner para garantir a estabilidade da aplicação.</li>
+    <li><a href="https://github.com/JorgeH-Tec/java-backend-foundations">🔗 Ver Repositório</a></li>
+  </ul>
+</details>
+
+<br>
+
+### 💻 Desenvolvimento Web & FrontEnd
+
+<details>
+  <summary><strong>🔷 NexuSaldo: Gestão Financeira e UX Design</strong></summary>
+  <br>
+  Projeto final da disciplina de Design Web, focado na criação de uma interface intuitiva para controle de finanças pessoais.
+  <ul>
+    <li><strong>Interface Centrada no Usuário (UI):</strong> Design responsivo com foco em usabilidade e hierarquia visual clara.</li>
+    <li><strong>Arquitetura de Navegação:</strong> Fluxo dinâmico entre páginas utilizando manipulação de DOM e lógica de roteamento em JavaScript.</li>
+    <li><strong>Modularização de Código:</strong> Estruturação organizada de componentes HTML e CSS para facilitar a manutenção e escalabilidade.</li>
+    <li><a href="https://github.com/JorgeH-Tec/projeto-design-web-nexusaldo">🔗 Ver Repositório</a></li>
+  </ul>
+</details>
 
 <details>
   <summary><strong>🔷 Site MetaRealms: Web Interativo</strong></summary>
@@ -47,19 +75,9 @@
   <ul>
     <li>Sistema de login e cadastro com validação</li>
     <li>Integração com banco de dados (MySQL)</li>
-    <li>Requisições, feedbacks visuais e várias funcionalidades dinâmicas</li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>🔷 Site MetaRealms: Sistema Completo de Autenticação</strong></summary>
-  <br>
-  Aplicação com:
-  <ul>
-    <li>Formulários de entrada e registro</li>
     <li>Criptografia de senhas</li>
-    <li>Painel de usuário</li>
-    <li>Controle de acesso com banco de dados</li>
+    <li>Requisições, feedbacks visuais e várias funcionalidades dinâmicas</li>
+    <li><a href="https://github.com/JorgeH-Tec/MetaRealms">🔗 Ver Repositório</a></li>
   </ul>
 </details>
 
@@ -70,6 +88,7 @@
   <ul>
     <li>Simulam uma navegação entre áreas distintas de um mesmo sistema.</li>
     <li>Foco em modularização, organização e clareza visual.</li>
+    <li><a href="https://github.com/JorgeH-Tec/sites-conectados-html-css-js">🔗 Ver Repositório</a></li>
   </ul>
 </details>
 
@@ -78,24 +97,24 @@
 ### 📚 Estudos Acadêmicos e Bootcamps
 
 <details>
-  <summary><strong>🐍 Simulação de Malware com Python</strong></summary>
+  <summary><strong>🔷 Simulação de Malware com Python</strong></summary>
   <br>
   Laboratório prático realizado durante o Bootcamp da DIO.
   <ul>
     <li>Criação de scripts para entender Ransomware e Keylogger.</li>
     <li>Foco em lógica de programação Python e manipulação de arquivos.</li>
-    <li><a href="LINK_DO_SEU_REPOSITORIO_PYTHON_AQUI">🔗 Ver Repositório</a></li>
+    <li><a href="https://github.com/JorgeH-Tec/python-malware-simulation">🔗 Ver Repositório</a></li>
   </ul>
 </details>
 
 <details>
-  <summary><strong>💀 Laboratório de Brute Force (Kali Linux)</strong></summary>
+  <summary><strong>🔷 Laboratório de Brute Force (Kali Linux)</strong></summary>
   <br>
   Experimento prático sobre vulnerabilidades em redes e autenticação.
   <ul>
     <li>Uso de máquinas virtuais e ferramentas de análise.</li>
     <li>Estudo sobre proteção de senhas e protocolos.</li>
-    <li><a href="LINK_DO_SEU_REPOSITORIO_KALI_AQUI">🔗 Ver Repositório</a></li>
+    <li><a href="https://github.com/JorgeH-Tec/lab-brute-force-kali">🔗 Ver Repositório</a></li>
   </ul>
 </details>
 
