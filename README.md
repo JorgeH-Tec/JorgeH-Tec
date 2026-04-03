@@ -121,7 +121,14 @@
 <br>
 
 ## 🎓 Cursos e Extensão
-
+<p>
+  <strong>☕ JAVA | Curso em Video</strong><br>
+  Conhecimentos completos sobre Java procedural e suas aplicações.
+</p>
+<p>
+  <strong>☕ JAVA POO | Curso em Video</strong> (Em Andamento)<br>
+  Conhecimentos completos sobre Java Orientado a Objetos e suas aplicações.
+</p>
 <p>
   <strong>🔐 Bootcamp de Cibersegurança | Santander & DIO</strong><br>
   Conhecimentos gerais em Redes, Linux e Segurança.
