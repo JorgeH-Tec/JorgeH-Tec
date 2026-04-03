@@ -47,6 +47,7 @@
     <li><strong>Programação Defensiva:</strong> Implementação rigorosa de <code>try-catch</code> e validação de <code>InputMismatchException</code>.</li>
     <li><strong>Estruturas de Dados:</strong> Manipulação avançada de vetores (arrays) com alocação dinâmica e acesso direto por índice.</li>
     <li><strong>Gestão de Memória:</strong> Controle de fluxo e limpeza de buffer do Scanner para garantir a estabilidade da aplicação.</li>
+    <li><strong>Arquitetura Modular (SoC):</strong> Decomposição de processos do Main em métodos especializados e independentes, utilizando boas práticas.</li>
     <li><a href="https://github.com/JorgeH-Tec/java-backend-foundations">🔗 Ver Repositório</a></li>
   </ul>
 </details>
