@@ -39,8 +39,8 @@
 
 ### ☕ Java Backend Development (Foco Atual)
 
-<details open>
-  <summary><strong>🔷 Java Backend Foundations: Lógica e Estrutura Core</strong></summary>
+<details>
+  <summary><strong>🔶 Java Backend Foundations: Lógica e Estrutura Core</strong></summary>
   <br>
   Repositório centralizando o domínio de fundamentos críticos da linguagem Java.
   <ul>
@@ -49,6 +49,21 @@
     <li><strong>Gestão de Memória:</strong> Controle de fluxo e limpeza de buffer do Scanner para garantir a estabilidade da aplicação.</li>
     <li><strong>Arquitetura Modular (SoC):</strong> Decomposição de processos do Main em métodos especializados e independentes, utilizando boas práticas.</li>
     <li><a href="https://github.com/JorgeH-Tec/java-backend-foundations">🔗 Ver Repositório</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><strong>🔶 Java Backend Object-Oriented: Paradigma e Modelagem de Domínio</strong></summary>
+  
+  <br>
+  Repositório focado na transição da lógica procedural para a arquitetura orientada a objetos (POO).
+  
+  <ul>
+    <li><strong>Encapsulamento:</strong> Proteção de dados sensíveis com <code>private</code> e métodos de validação.</li> 
+    <li><strong>Composição:</strong> Organização de classes onde uma entidade gerencia coleções de outras.</li> 
+    <li><strong>Objetos Ricos:</strong> Uso de objetos com lógica própria em vez de tipos de dados simples.</li> 
+    <li><strong>Collections API:</strong> Gerenciamento dinâmico de listas de dados com <code>ArrayList</code>.</li>
+    <li><a href="https://github.com/JorgeH-Tec/java-backend-object-oriented">🔗 Ver Repositório</a></li>
   </ul>
 </details>
 
