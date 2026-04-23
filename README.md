@@ -1,167 +1,81 @@
-<h1 align="center">👋 Olá! Eu sou o Jorge Henrique</h1>
-<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas</h3>
+# Jorge Henrique
+### Desenvolvedor de Software | Estudante de ADS
 
-<br>
-
-<p align="center">
-  💻 Focado em <strong>Desenvolvimento Java Backend</strong>, Soluções Web e Banco de Dados.
-  <br>
-  📚 Estudante de ADS, aprimorando lógica de programação e arquitetura de software.
-</p>
-
-<div align="center">
-  <a href="https://github.com/JorgeH-Tec">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeH-Tec&theme=dracula" alt="GitHub Streak Stats" />
-  </a>
-</div>
+Meu nome é Jorge Henrique e sou estudante de Análise e Desenvolvimento de Sistemas com bolsa de estudos integral (100%) pelo ENEM. Meu foco atual é o desenvolvimento em **Java** e na criação de softwares extremamente seguros e eficientes. Acredito que o código é apenas uma ferramenta, por isso, busco meu diferencial técnico no que chamo de "estudo além da sintaxe":
+* **Tratamento de Erros:** Construção de aplicações resilientes com gestão rigorosa de exceções.
+* **Modelagem de Dados:** Estruturação lógica focada em integridade e performance.
+* **Segurança e Eficiência:** Desenvolvimento focado em boas práticas de arquitetura e proteção de dados.
 
 ---
 
-## 🛠️ Habilidades e Tecnologias
+## 🛠️ Tecnologias e Ferramentas
+<img align="left" alt="Java" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Spring" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="PHP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="Python" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="HTML5" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-<br>
+<br clear="all">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
 
-<br>
 
 ## 🚀 Projetos em Destaque
 
-### ☕ Java Backend Development (Foco Atual)
-
 <details>
-  <summary><strong>🔶 Java Backend Foundations: Lógica e Estrutura Core</strong></summary>
-  <br>
-  Repositório centralizando o domínio de fundamentos críticos da linguagem Java.
-  <ul>
-    <li><strong>Programação Defensiva:</strong> Implementação rigorosa de <code>try-catch</code> e validação de <code>InputMismatchException</code>.</li>
-    <li><strong>Estruturas de Dados:</strong> Manipulação avançada de vetores (arrays) com alocação dinâmica e acesso direto por índice.</li>
-    <li><strong>Gestão de Memória:</strong> Controle de fluxo e limpeza de buffer do Scanner para garantir a estabilidade da aplicação.</li>
-    <li><strong>Arquitetura Modular (SoC):</strong> Decomposição de processos do Main em métodos especializados e independentes, utilizando boas práticas.</li>
-    <li><a href="https://github.com/JorgeH-Tec/java-backend-foundations">🔗 Ver Repositório</a></li>
-  </ul>
+  <summary><strong>☕ Java Backend Foundations</strong></summary> <br>
+  <p>
+    Foco em <strong>Lógica Defensiva</strong> e robustez. 
+    <ul>
+      <li>Gestão rigorosa de exceções (try-catch).</li>
+      <li>Arquitetura modular (SoC) e controle de memória.</li>
+      <li><a href="https://github.com/JorgeH-Tec/java-backend-foundations">🔗 Ver Repositório</a></li>
+    </ul>
+  </p> <br>
 </details>
 
 <details>
-  <summary><strong>🔶 Java Backend Object-Oriented: Paradigma e Modelagem de Domínio</strong></summary>
-  
-  <br>
-  Repositório focado na transição da lógica procedural para a arquitetura orientada a objetos (POO).
-  
-  <ul>
-    <li><strong>Encapsulamento:</strong> Proteção de dados sensíveis com <code>private</code> e métodos de validação.</li> 
-    <li><strong>Composição:</strong> Organização de classes onde uma entidade gerencia coleções de outras.</li> 
-    <li><strong>Objetos Ricos:</strong> Uso de objetos com lógica própria em vez de tipos de dados simples.</li> 
-    <li><strong>Collections API:</strong> Gerenciamento dinâmico de listas de dados com <code>ArrayList</code>.</li>
-    <li><a href="https://github.com/JorgeH-Tec/java-backend-object-oriented">🔗 Ver Repositório</a></li>
-  </ul>
-</details>
-
-<br>
-
-### 💻 Desenvolvimento Web & FrontEnd
-
-<details>
-  <summary><strong>🔷 NexuSaldo: Gestão Financeira e UX Design</strong></summary>
-  <br>
-  Projeto final da disciplina de Design Web, focado na criação de uma interface intuitiva para controle de finanças pessoais.
-  <ul>
-    <li><strong>Interface Centrada no Usuário (UI):</strong> Design responsivo com foco em usabilidade e hierarquia visual clara.</li>
-    <li><strong>Arquitetura de Navegação:</strong> Fluxo dinâmico entre páginas utilizando manipulação de DOM e lógica de roteamento em JavaScript.</li>
-    <li><strong>Modularização de Código:</strong> Estruturação organizada de componentes HTML e CSS para facilitar a manutenção e escalabilidade.</li>
-    <li><a href="https://github.com/JorgeH-Tec/projeto-design-web-nexusaldo">🔗 Ver Repositório</a></li>
-  </ul>
+  <summary><strong>🏛️ Java Backend Object-Oriented</strong></summary> <br>
+  <p>
+    Domínio de <strong>Modelagem de Domínio</strong> e POO.
+    <ul>
+      <li>Encapsulamento, herança e polimorfismo aplicados na prática.</li>
+      <li>Manipulação avançada de dados com Collections API.</li>
+      <li><a href="https://github.com/JorgeH-Tec/java-backend-object-oriented">🔗 Ver Repositório</a></li>
+    </ul>
+  </p> <br>
 </details>
 
 <details>
-  <summary><strong>🔷 Site MetaRealms: Web Interativo</strong></summary>
-  <br>
-  Um site totalmente personalizado, com foco em <strong>experiência do usuário</strong> e <strong>interações visuais</strong>, incluindo:
-  <ul>
-    <li>Sistema de login e cadastro com validação</li>
-    <li>Integração com banco de dados (MySQL)</li>
-    <li>Criptografia de senhas</li>
-    <li>Requisições, feedbacks visuais e várias funcionalidades dinâmicas</li>
-    <li><a href="https://github.com/JorgeH-Tec/MetaRealms">🔗 Ver Repositório</a></li>
-  </ul>
+  <summary><strong>💰 NexuSaldo</strong></summary> <br>
+  <p>
+    Gestão financeira unindo <strong>Backend e UX</strong>.
+    <ul>
+      <li>Modelagem de fluxos de caixa e tratamento de dados sensíveis.</li>
+      <li>Interface intuitiva focada na experiência do usuário.</li>
+      <li><a href="https://github.com/JorgeH-Tec/projeto-design-web-nexusaldo">🔗 Ver Repositório</a></li>
+    </ul>
+  </p> <br>
 </details>
 
 <details>
-  <summary><strong>🔷 Projeto de Dois Sites Conectados</strong></summary>
-  <br>
-  Dois sites independentes interligados, desenvolvidos com HTML, CSS e JavaScript.
-  <ul>
-    <li>Simulam uma navegação entre áreas distintas de um mesmo sistema.</li>
-    <li>Foco em modularização, organização e clareza visual.</li>
-    <li><a href="https://github.com/JorgeH-Tec/sites-conectados-html-css-js">🔗 Ver Repositório</a></li>
-  </ul>
+  <summary><strong>🎮 MetaRealms</strong></summary> <br>
+  <p>
+    Aplicação completa focada em <strong>Persistência e Segurança</strong>.
+    <ul>
+      <li>Integração com MySQL e criptografia de senhas.</li>
+      <li>Validação rigorosa de dados no backend.</li>
+      <li><a href="https://github.com/JorgeH-Tec/MetaRealms">🔗 Ver Repositório</a></li>
+    </ul>
+  </p> <br>
 </details>
-
-<br>
-
-### 📚 Estudos Acadêmicos e Bootcamps
-
-<details>
-  <summary><strong>🔷 Simulação de Malware com Python</strong></summary>
-  <br>
-  Laboratório prático realizado durante o Bootcamp da DIO.
-  <ul>
-    <li>Criação de scripts para entender Ransomware e Keylogger.</li>
-    <li>Foco em lógica de programação Python e manipulação de arquivos.</li>
-    <li><a href="https://github.com/JorgeH-Tec/python-malware-simulation">🔗 Ver Repositório</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>🔷 Laboratório de Brute Force (Kali Linux)</strong></summary>
-  <br>
-  Experimento prático sobre vulnerabilidades em redes e autenticação.
-  <ul>
-    <li>Uso de máquinas virtuais e ferramentas de análise.</li>
-    <li>Estudo sobre proteção de senhas e protocolos.</li>
-    <li><a href="https://github.com/JorgeH-Tec/lab-brute-force-kali">🔗 Ver Repositório</a></li>
-  </ul>
-</details>
-
-<br>
-
-## 🎓 Cursos e Extensão
-<p>
-  <strong>☕ JAVA | Curso em Video</strong><br>
-  Conhecimentos completos sobre Java procedural e suas aplicações.
-</p>
-<p>
-  <strong>☕ JAVA POO | Curso em Video</strong> (Em Andamento)<br>
-  Conhecimentos completos sobre Java Orientado a Objetos e suas aplicações.
-</p>
-<p>
-  <strong>🔐 Bootcamp de Cibersegurança | Santander & DIO</strong><br>
-  Conhecimentos gerais em Redes, Linux e Segurança.
-</p>
-<p>
-  <strong>🤖 Trilha de IA & Dados | Santander & Alura</strong><br>
-  Introdução à IA Generativa e Python para dados.
-</p>
-
-<br>
-
-## 📫 Contatos
-
-  * **Email:** [jorge.paiv4@gmail.com](mailto:jorge.paiv4@gmail.com)
-  * **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/jorge-henrique-16b567263/)
 
 ---
 
-<p align="center">
-  Obrigado por visitar meu perfil! 
-</p>
+## 📫 Contato
+
+* **LinkedIn:** [Jorge Henrique](https://www.linkedin.com/in/jorge-henrique-16b567263/)
+* **Email:** jorge.paiv4@gmail.com
