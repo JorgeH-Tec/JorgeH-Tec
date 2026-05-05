@@ -26,7 +26,7 @@ Meu nome é Jorge Henrique e sou estudante de Análise e Desenvolvimento de Sist
 ## 🚀 Projetos em Destaque
 
 <details>
-  <summary><strong>☕ Java Backend Foundations</strong></summary> <br>
+  <summary><strong>☕ Essencial avançado em Java Backend </strong></summary> <br>
   <p>
     Foco em <strong>Lógica Defensiva</strong> e robustez. 
     <ul>
@@ -38,7 +38,7 @@ Meu nome é Jorge Henrique e sou estudante de Análise e Desenvolvimento de Sist
 </details>
 
 <details>
-  <summary><strong>🏛️ Java Backend Object-Oriented</strong></summary> <br>
+  <summary><strong>🏛️ Java Backend Orientado a Objetos </strong></summary> <br>
   <p>
     Domínio de <strong>Modelagem de Domínio</strong> e POO.
     <ul>
@@ -50,7 +50,7 @@ Meu nome é Jorge Henrique e sou estudante de Análise e Desenvolvimento de Sist
 </details>
 
 <details>
-  <summary><strong>💰 NexuSaldo</strong></summary> <br>
+  <summary><strong>💰 NexuSaldo </strong></summary> <br>
   <p>
     Gestão financeira unindo <strong>Backend e UX</strong>.
     <ul>
@@ -62,7 +62,7 @@ Meu nome é Jorge Henrique e sou estudante de Análise e Desenvolvimento de Sist
 </details>
 
 <details>
-  <summary><strong>🎮 MetaRealms</strong></summary> <br>
+  <summary><strong>🎮 MetaRealms </strong></summary> <br>
   <p>
     Aplicação completa focada em <strong>Persistência e Segurança</strong>.
     <ul>
