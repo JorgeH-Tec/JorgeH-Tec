@@ -62,13 +62,13 @@ Meu nome é Jorge Henrique e sou estudante de Análise e Desenvolvimento de Sist
 </details>
 
 <details>
-  <summary><strong>🎮 MetaRealms </strong></summary> <br>
+  <summary><strong>📖 SOSS </strong></summary> <br>
   <p>
-    Aplicação completa focada em <strong>Persistência e Segurança</strong>.
+    Sistema de Orientação para Serviços Sociais</strong>.
     <ul>
-      <li>Integração com MySQL e criptografia de senhas.</li>
-      <li>Validação rigorosa de dados no backend.</li>
-      <li><a href="https://github.com/JorgeH-Tec/MetaRealms">🔗 Ver Repositório</a></li>
+      <li>Interface simples para entendimento ao público.</li>
+      <li>Projeto acadêmico de extensão para auxiliar a comunidade.</li>
+      <li><a href="https://github.com/JorgeH-Tec/soss-assistance-guide">🔗 Ver Repositório</a></li>
     </ul>
   </p> <br>
 </details>
