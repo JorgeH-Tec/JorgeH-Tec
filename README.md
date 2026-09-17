@@ -26,6 +26,18 @@ Meu nome é Jorge Henrique e sou estudante de Análise e Desenvolvimento de Sist
 ## 🚀 Projetos em Destaque
 
 <details>
+  <summary><strong>🤖 Automação EGOV </strong></summary> <br>
+  <p>
+    Automação para sincronização de dados com <strong>APIs e JAVA</strong>
+    <ul>
+      <li>Gestão de credenciais e variáveis de ambiente.</li>
+      <li>Segurança, estabilidade, manutenibilidade, POO e boas práticas</li>
+      <li><a href="https://github.com/JorgeH-Tec/java-rpa-api-automation">🔗 Ver Repositório</a></li>
+    </ul>
+  </p> <br>
+</details>
+
+<details>
   <summary><strong>☕ Essencial avançado em Java Backend </strong></summary> <br>
   <p>
     Foco em <strong>Lógica Defensiva</strong> e robustez. 
@@ -45,18 +57,6 @@ Meu nome é Jorge Henrique e sou estudante de Análise e Desenvolvimento de Sist
       <li>Encapsulamento, herança e polimorfismo aplicados na prática.</li>
       <li>Manipulação avançada de dados com Collections API.</li>
       <li><a href="https://github.com/JorgeH-Tec/java-backend-object-oriented">🔗 Ver Repositório</a></li>
-    </ul>
-  </p> <br>
-</details>
-
-<details>
-  <summary><strong>💰 NexuSaldo </strong></summary> <br>
-  <p>
-    Gestão financeira unindo <strong>Backend e UX</strong>.
-    <ul>
-      <li>Modelagem de fluxos de caixa e tratamento de dados sensíveis.</li>
-      <li>Interface intuitiva focada na experiência do usuário.</li>
-      <li><a href="https://github.com/JorgeH-Tec/projeto-design-web-nexusaldo">🔗 Ver Repositório</a></li>
     </ul>
   </p> <br>
 </details>
