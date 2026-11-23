@@ -1,7 +1,7 @@
 # Jorge Henrique
 ### Desenvolvedor de Software | Estudante de ADS
 
-Meu nome é Jorge Henrique e sou estudante de Análise e Desenvolvimento de Sistemas com bolsa de estudos integral (100%) pelo ENEM. Meu foco atual é o desenvolvimento em **Java** e na criação de softwares extremamente seguros e eficientes. Acredito que o código é apenas uma ferramenta, por isso, busco meu diferencial técnico no que chamo de "estudo além da sintaxe":
+Meu nome é Jorge Henrique e sou estudante de Análise e Desenvolvimento de Sistemas. Meu foco atual é o desenvolvimento em **Java** e na criação de softwares extremamente seguros e eficientes. Acredito que o código é apenas uma ferramenta, por isso, busco meu diferencial técnico no que chamo de "estudo além da sintaxe":
 * **Tratamento de Erros:** Construção de aplicações resilientes com gestão rigorosa de exceções.
 * **Modelagem de Dados:** Estruturação lógica focada em integridade e performance.
 * **Segurança e Eficiência:** Desenvolvimento focado em boas práticas de arquitetura e proteção de dados.
